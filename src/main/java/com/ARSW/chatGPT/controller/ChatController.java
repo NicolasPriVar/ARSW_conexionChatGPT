@@ -1,6 +1,6 @@
-package com.ARSW.app.controller;
+package com.ARSW.chatGPT.controller;
 
-import com.ARSW.app.adapter.IAiAdapter;
+import com.ARSW.chatGPT.adapter.IAiAdapter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -8,7 +8,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/chatGPT")
-public class chatController {
+public class ChatController {
 
     @Autowired
     IAiAdapter adaptador;

@@ -1,4 +1,4 @@
-package com.ARSW.app.adapter;
+package com.ARSW.chatGPT.adapter;
 
 import com.google.gson.*;
 import org.springframework.beans.factory.annotation.Value;
