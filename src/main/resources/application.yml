@@ -2,3 +2,4 @@ api:
   chatgpt:
     url: "https://api.openai.com/v1/chat/completions"
     apiToken: ${OPENAI_API_KEY}
+
