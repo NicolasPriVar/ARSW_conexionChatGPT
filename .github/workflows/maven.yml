@@ -27,4 +27,4 @@ jobs:
         with:
           app-name: 'conexionChatGPT'
           publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
-          package: './target/chatGpt-0.0.1-SNAPSHOT.jar'
+          package: './target/conexionChatGPT-1.0-SNAPSHOT.jar'
