@@ -31,6 +31,12 @@ Esto permite:
 
 ---
 
+## Diagrama de clases
+
+![image](https://github.com/user-attachments/assets/ff142dbd-4ea4-4c80-bc57-c2d5f83d11cf)
+
+---
+
 ## ⚙️ Tecnologías usadas
 
 Azure (despliegue)  
